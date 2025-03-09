@@ -18,4 +18,5 @@ se recuperan los elementos del html para mostrar la ventana de cookies y cerrarl
 Usando LocalStorage se guardan las cookies aceptadas para no mostrar la ventana si el 
 usuario ha aceptado antes las cookies.
 
+![galletitas-roadmap-project](https://github.com/user-attachments/assets/351e4318-beed-416b-a6b7-2cb0d2ff52ee)
 
